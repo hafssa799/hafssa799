@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hafssa-azarg-138454320"><img src="https://img.shields.io/badge/LinkedIn-Hafssa_Azarg-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hafssaazarg543@gmail.com"><img src="https://img.shields.io/badge/Email-hafssaazarg543@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Marrakech-Maroc-2E7D32" alt="Localisation">
   <img src="https://img.shields.io/badge/Stage_PFE-6_mois_·_Février_2027-C62828" alt="Disponibilité">
 </p>
 
